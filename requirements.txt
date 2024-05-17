@@ -1,2 +1,3 @@
 langchain_experimental
 python-dotenv
+openai
