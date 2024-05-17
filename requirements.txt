@@ -1,1 +1,2 @@
 langchain_experimental
+python-dotenv
