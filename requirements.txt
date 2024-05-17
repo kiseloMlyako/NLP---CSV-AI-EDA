@@ -2,3 +2,4 @@ langchain_experimental
 python-dotenv
 openai
 langchain-community
+langchain_experimental
